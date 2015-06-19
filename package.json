@@ -5,6 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "cron": "^1.0.9",
+    "json-server": "^0.7.18",
+    "lowdb": "^0.10.0",
     "noble": "^1.0.1",
     "time": "^0.11.3"
   },
@@ -13,5 +15,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tfuru/DoorDoorRelayServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tfuru/DoorDoorRelayServer/issues"
+  },
+  "homepage": "https://github.com/tfuru/DoorDoorRelayServer"
 }
